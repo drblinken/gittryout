@@ -14,4 +14,5 @@ workflow:
 2. rake(tests)
 3.pull
 4.rake
+5.push
 
