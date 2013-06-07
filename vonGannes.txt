@@ -6,12 +6,13 @@ git status
 git add (Dateiname)
 git commit -m 
 git push origin master
+git pull origin master
 
 
 workflow:
 
 1.commit/add
-2. rake(tests)
+2.rake(tests)
 3.pull
 4.rake
 5.push
