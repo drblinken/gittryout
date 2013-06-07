@@ -1,0 +1,6 @@
+Moin!
+
+wichtige Kommandos
+
+git add (Dateiname)
+git commit -m "..."
